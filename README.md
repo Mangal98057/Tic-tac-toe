@@ -1,1 +1,9 @@
 # Tic-tac-toe
+<h1>
+  HTML CSS & JAVASCRIPT USING GAME 
+</h1>
+<p>
+  THIS GAME LOGIC BASIC APPLY USING JAVASCRIPT 
+  
+</p>
+
